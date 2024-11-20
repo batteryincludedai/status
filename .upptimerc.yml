@@ -6,7 +6,7 @@ sites:
   - name: Browse
     url: https://api.batteryincluded.io/api/v1/collections/demo/documents/browse?q=phone
     headers:
-    - "X-BI-API-KEY: demo-key"
+      - "X-BI-API-KEY: demo-key"
 #  - name: Wikipedia
 #    url: https://en.wikipedia.org
 #  - name: Hacker News
