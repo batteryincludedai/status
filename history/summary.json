@@ -1,7 +1,7 @@
 [
   {
     "name": "Browse",
-    "url": "https://api.batteryincluded.io/api/v1/collections/demo/documents/browse?q=phone",
+    "url": "https://api.batteryincluded.io/api/v1/collections/demo/documents/browse?q=phone&v[locale]=de",
     "icon": "https://icons.duckduckgo.com/ip3/api.batteryincluded.io.ico",
     "slug": "browse",
     "status": "up",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 557,
-    "timeWeek": 561,
-    "timeMonth": 561,
-    "timeYear": 561,
+    "time": 436,
+    "timeDay": 396,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Suggest",
+    "url": "https://api.batteryincluded.io/api/v1/collections/demo/documents/suggest?q=phone&v[locale]=de",
+    "icon": "https://icons.duckduckgo.com/ip3/api.batteryincluded.io.ico",
+    "slug": "suggest",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 113,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   }
 ]
