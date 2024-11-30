@@ -12,6 +12,7 @@ sites:
     headers:
       - "X-BI-API-KEY: demo-key"
 status-website:
+  themeUrl: https://status.batteryincluded.io/theme.css
   cname: status.batteryincluded.io
   logoUrl: https://batteryincluded.ai/wp-content/uploads/2023/12/BI-Logo-Header-1@300x-8-1.png
   name: BatteryIncluded
