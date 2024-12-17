@@ -1,18 +1,18 @@
 :root {
   --body-background-color: #000a28;
   --body-text-color: #FFFEFD;
-  --card-background-color: #454d6e;
-  --nav-background-color: #454d6e;
-  --nav-border-bottom-color: #cceff8;
+  --card-background-color: #000a28;
+  --nav-background-color: #000a28;
+  --nav-border-bottom-color: #e27a77;
   --nav-current-border-bottom-color: #cceff8;
   --card-border-color: #cceff8;
   --down-border-left-color: #cceff8;
   --down-background-color: #6b1020;
   --degraded-border-left-color: #cceff8;
-  --up-border-left-color: #cceff8;
+  --up-border-left-color: #e27a77;
   --tag-color: #002b29;
-  --tag-up-background-color: #20bf6b;
-  --tag-down-background-color: #eb3b5a;
+  --tag-up-background-color: #6ab1ad;
+  --tag-down-background-color: #d65400;
   --tag-degraded-background-color: #f7b731;
   --change-background-color: #f7b731;
   --error-button-border-color: #cceff8;
