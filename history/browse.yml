@@ -1,7 +1,7 @@
 url: https://api.batteryincluded.io/api/v1/collections/demo/documents/browse?q=phone&v[locale]=de
 status: up
 code: 200
-responseTime: 48
-lastUpdated: 2025-01-28T17:55:01.502Z
+responseTime: 45
+lastUpdated: 2025-01-28T18:18:11.458Z
 startTime: 2024-11-20T17:24:03.602Z
 generator: Upptime <https://github.com/upptime/upptime>
