@@ -4,19 +4,20 @@
     "url": "https://api.batteryincluded.io/api/v1/collections/demo/documents/browse?q=phone&v[locale]=de",
     "icon": "https://icons.duckduckgo.com/ip3/api.batteryincluded.io.ico",
     "slug": "browse",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.93%",
     "time": 69,
-    "timeDay": 48,
+    "timeDay": 47,
     "timeWeek": 49,
     "timeMonth": 57,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-31": 56,
+      "2025-01-30": 11
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://api.batteryincluded.io/api/v1/collections/demo/documents/suggest?q=phone&v[locale]=de",
     "icon": "https://icons.duckduckgo.com/ip3/api.batteryincluded.io.ico",
     "slug": "suggest",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.93%",
     "time": 51,
-    "timeDay": 13,
+    "timeDay": 12,
     "timeWeek": 13,
     "timeMonth": 38,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-31": 56,
+      "2025-01-30": 11
     }
   }
 ]
