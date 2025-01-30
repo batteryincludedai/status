@@ -1,7 +1,7 @@
 url: https://api.batteryincluded.io/api/v1/collections/demo/documents/browse?q=phone&v[locale]=de
 status: down
 code: 503
-responseTime: 30
-lastUpdated: 2025-01-30T22:48:38.334Z
+responseTime: 29
+lastUpdated: 2025-01-30T22:57:44.008Z
 startTime: 2024-11-20T17:24:03.602Z
 generator: Upptime <https://github.com/upptime/upptime>
